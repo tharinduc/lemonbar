@@ -60,4 +60,4 @@ run() {
   done
 }
 
-run | lemonbar -p
+run | lemonbar -b -p
